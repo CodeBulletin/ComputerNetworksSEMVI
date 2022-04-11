@@ -1,0 +1,59 @@
+Sequence: 0
+
+Sender:
+Sending Frame: 1
+Packet data: 3CQ856DSLPKDO3PM
+
+Sender:
+Resending packet 1 for Reason: acknowledgement not recevied
+Packet data: 3CQ856DSLPKDO3PM
+
+Receiver:
+Received Frame: 1
+Packet Data: 3CQ856DSLPKDO3PM
+
+Sender:
+Resending packet 1 for Reason: acknowledgement not recevied
+Packet data: 3CQ856DSLPKDO3PM
+
+Receiver:
+Received Frame: 1
+Packet Data: 3CQ856DSLPKDO3PM
+
+Sender:
+Acknowledgement received for packet 1
+
+Sender:
+Sending Frame: 2
+Packet data: DS0XDRYN5DDF9HKV
+
+Receiver:
+Received Frame: 2
+Packet Data: DS0XDRYN5DDF9HKV
+
+Sender:
+Acknowledgement received for packet 2
+
+Sequence: 1
+
+Sender:
+Sending Frame: 1
+Packet data: MW33VZ75K4I2X8GR
+
+Receiver:
+Received Frame: 1
+Packet Data: MW33VZ75K4I2X8GR
+
+Sender:
+Acknowledgement received for packet 1
+
+Sender:
+Sending Frame: 2
+Packet data: RN5A2HX8JFHRUAYL
+
+Receiver:
+Received Frame: 2
+Packet Data: RN5A2HX8JFHRUAYL
+
+Sender:
+Acknowledgement received for packet 2
